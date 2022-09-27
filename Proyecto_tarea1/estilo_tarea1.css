@@ -1,0 +1,21 @@
+body { 
+    background-color:azure
+}
+#cabecera{
+    background-color:beige;
+}
+#principal{
+    background-color: aqua;
+}
+.articulo{
+    background-color: aquamarine;
+    margin:10px;
+}
+#pie{
+    background-color:red;
+    text-align:center;
+    border-style: solid;
+    boerder-width: medium;
+    border-color:black;
+    style="font-family:courier;
+}
